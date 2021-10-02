@@ -1,0 +1,60 @@
+body {
+    font-family: "Impact", monospace;
+    text-align: center;
+    background-image: url("https://images2.alphacoders.com/474/thumb-1920-474157.jpg");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .crunch-logo {
+    width: 80px;
+    position: absolute;
+    top: 10px;
+    right: 2px;
+  }
+  
+  
+  
+  body > img {
+    margin: 20px 10px;
+    width: 200px;
+    height: 340px;
+    
+  }
+  
+  img {
+    margin-bottom: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 2px;
+  }
+  
+  img:hover {
+    transform: scale(1.3);
+  }
+  
+ 
+
+
+  
